@@ -1,6 +1,4 @@
 
-GPT TODO 
-
 import React, { useState } from "react";
 
 const Input = () => {
